@@ -45,4 +45,6 @@ const FillBar = styled.div`
   background-color: ${COLORS.primary};
 `;
 
+
+
 export default ProgressBar;
